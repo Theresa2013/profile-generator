@@ -21,5 +21,8 @@
     "url": "https://github.com/Theresa2013/profile-generator/issues"
   },
   "homepage": "https://github.com/Theresa2013/profile-generator#readme",
-  "description": ""
+  "description": "",
+  "directories": {
+    "lib": "lib"
+  }
 }
