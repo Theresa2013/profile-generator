@@ -50,6 +50,7 @@ https://github.com/Theresa2013/profile-generator.git
 ## Screenshots
 
 ![demo](./images/Screenshot.png)
+Video Link: https://drive.google.com/open?id=1R-SGhEs8nIlOM4p9qFa3xixzG_Ez2rlO&authuser=tab61295%40gmail.com&usp=drive_fs
 
 ## Contribution
 
